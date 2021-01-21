@@ -6,7 +6,7 @@
 //
 //
 //
-// C867: Scripting and Programming - Applications
+// C867: Scripting and Programming - Applications (JYM1 TASK 1: CLASS ROSTER)
 
 
 #include "roster.h"
